@@ -1,1 +1,1 @@
-# CSE490-Group-5_Report-Evolutionary_and_Phylogenetic_Analysis_of_HumanPrionProtein-PRNP
+# CSE490 Group-5 Report Evolutionary and Phylogenetic Analysis of Human Prion Protein PRNP
